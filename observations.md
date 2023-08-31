@@ -1,0 +1,1 @@
+When the voltage is increased, the current, measured in amperes, also increases, resulting in a higher flow rate of electrons. On the other hand, when the voltage is decreased, the current decreases and the flow of electrons slows down.
